@@ -1,0 +1,65 @@
+---
+title: "Natural Language Processing for Literature"
+output: html_document
+---
+
+March 5, 2019  
+Philip R. "Pib" Burns
+
+**Basic NLP Tasks**  
+Detect language > tokenize > sentence splitting > part of speech tagging > Lemmatization (core) > parsing
+
+**Advanced NLP Tasks**  
+* Automatic summarization  
+* Auto translation  
+* Coreference resolution  
+* Natural language generation  
+* Readability analysis  
+* Relation extraction  
+* Sentiment and mood analysis  
+* Speech processing  
+* Topic extraction and segmentation  
+
+**How to do it**  
+* Convert to EarlyPrint TEI  
+* Use MorphAdorner  
+* Add metadata  
+* Add links to images  
+* Add to EarlyPrint   
+* Add to CorpusSearch  
+
+**TEI: Text Encoding Initiative**  
+* Standard based on XML  
+
+**Interesting work**
+EarlyPrint  https://earlyprint.wustl.edu  
+https://lesmiserables.mla.hcommons.org/  
+
+**Getting work**
+Oxford Text Archive  
+Folger Library  
+Project Gutenberg  
+Archive.org  
+Hathi Trust  
+Google Books  
+Digital Public Library of America  
+
+http://libguides.northwestern.edu/dh
+
+## Useful Software
+MorphAdorner server (aging) - $0
+Tapor - Free  
+  http://tapor.ca/tool_lists  
+  http://tapor.ca/tool_lists/3
+Sketch Engine - $$  
+DIRT Digital Research Tools
+  http://dirtdirectory.org/
+Gale Cengage Digital Scholar Lab
+  https://www.gale.com/primary-sources/digital-scholar-lab
+  
+## Cool thing to use
+http://textservices.at.northwestern.edu/  
+
+  
+## Cool Stuffs  
+http://jacksontwo.com/shape-of-shakespeares-sonnets  
