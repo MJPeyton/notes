@@ -3,6 +3,51 @@ title: "Make an R Package"
 output: html_document
 ---
 
+Katherine Simeon
+March 7, 2019
+
+https://github.com/katherinesimeon/make-r-packages
+
+Acknowledgemetns
+* Stephanie Krimer: R Package Tutorial
+
+Packages we'll use
+devtools
+roxygen2
+usethis
+
+usethis::create_package("packagename")
+
+aPackage
+  |
+  |-Description
+  |
+  |-Namespace
+  |
+  |-R/
+  |  |-Function1.R
+  |  |
+  |  |-Function 2.R
+  |
+  |-man/
+  |  |-Function1.rd
+  |  |
+  |  |-Function2.rd
+  |
+  |-A_package.Rproj
+  
+
+With curser in curly brackets of function click code > Insert Roxygen Skeleton
+
+devtools::document
+
+devtools::install() -> Keeps in session so you can just load
+
+usethis::use_test('function_name')
+
+usethis::use_data()
+save as .rda file
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
